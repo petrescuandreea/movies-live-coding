@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: burlywood;
+  color: black;
+  text-align: center;
+}
+
+h1 {
+  margin: 20px 0;
+  font-size: 40px;
+}
+
+section {
+  padding: 20px 0;
+}
+
+section h2 {
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
